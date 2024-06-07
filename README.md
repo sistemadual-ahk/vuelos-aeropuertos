@@ -8,6 +8,7 @@ A cada vuelo se le asigna un avión y una tripulación, la cual consta de 2 pilo
 Cada pasajero de un vuelo tiene asignado un asiento.
 
 ***Requerimientos***
+
 El sistema debe informar:
 1. La capacidad de un vuelo ocupada por pasajeros.
 2. La duración total aproximada de un vuelo, teniendo en cuenta que, de existir, en cada
